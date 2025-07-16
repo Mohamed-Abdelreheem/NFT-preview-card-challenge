@@ -24,8 +24,8 @@ This is NFT preview card component design using CSS custom properties and flex-b
 
 ### Links
 
-- Solution URL: (https://github.com/Mohamed-Abdelreheem/NFT-preview-card-challeng)
-- Live Site URL: (https://mohamed-abdelreheem.github.io/NFT-preview-card-challeng/)
+- Solution URL: (https://github.com/Mohamed-Abdelreheem/NFT-preview-card-challenge)
+- Live Site URL: (https://mohamed-abdelreheem.github.io/NFT-preview-card-challenge/)
 
 
 ### Built with
