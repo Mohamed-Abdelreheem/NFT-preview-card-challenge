@@ -19,7 +19,7 @@ This is NFT preview card component design using CSS custom properties and flex-b
 
 ### Screenshot
 
-[desktop view](./screenshots/desktop-screen.png) , [mobile view](./screenshots/mobile-screen.png) , [image-hover](screenshots/hover1.png) , [link1-hover](./screenshots/hover2.png),[link2-hover](./screenshots/hover2.png)
+[desktop view](./screenshots/desktop-screen.png) , [mobile view](./screenshots/mobile-screen.png) , [image-hover](screenshots/hover1.png) , [link1-hover](./screenshots/hover2.png),[link2-hover](./screenshots/hover3.png)
 
 
 ### Links
